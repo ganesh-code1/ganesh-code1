@@ -357,7 +357,7 @@ h6 {
   color: var(--default-color);
   background-color: var(--background-color);
   font-size: 14px;
-  padding: 40px 0;
+  padding: 15px 0;
   position: relative;
   border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 90%);
 }
@@ -493,7 +493,7 @@ section,
 .section {
   color: var(--default-color);
   background-color: var(--background-color);
-  padding: 60px 0;
+  padding: 40px 15px;
   overflow: clip;
 }
 
@@ -535,7 +535,7 @@ section,
   width: 100%;
   min-height: 100vh;
   position: relative;
-  padding: 80px 0;
+  padding: 15px;
   display: flex;
   align-items: center;
   justify-content: center;
